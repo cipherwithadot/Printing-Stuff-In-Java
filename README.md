@@ -1,2 +1,1 @@
-# Print-Stuff-In-Java
-My First Java Code
+# My First Java Code
